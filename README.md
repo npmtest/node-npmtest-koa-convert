@@ -1,6 +1,6 @@
 # npmtest-koa-convert
 
-#### test coverage for  [koa-convert (v1.2.0)](https://github.com/gyson/koa-convert#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-koa-convert.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-koa-convert) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-koa-convert.svg)](https://travis-ci.org/npmtest/node-npmtest-koa-convert)
+#### basic test coverage for  [koa-convert (v1.2.0)](https://github.com/gyson/koa-convert#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-koa-convert.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-koa-convert) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-koa-convert.svg)](https://travis-ci.org/npmtest/node-npmtest-koa-convert)
 
 #### convert koa legacy generator-based middleware to promise-based middleware
 
